@@ -1,6 +1,6 @@
 # BlogMeiras
 
-Projeto: Blog focado em notícias e conteúdo sobre a SE Palmeiras.
+Projeto: Blog focado em notícias e conteúdo sobre a Sociedade Esportiva Palmeiras.
 Stack: Next.js + TypeScript, Tailwind, Prisma (Postgres), NextAuth, OpenAI (summarização/embeddings), pgvector/Pinecone.
 
 Roadmap inicial:
